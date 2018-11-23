@@ -17,10 +17,17 @@
       "XXX",
       "IDEA",
       "NOTE",
-      "REVIEW"
+      "REVIEW",
+      "MARK",
+      "HELP"
     ]
   },
-  "lists": [],
+  "lists": [
+    {
+      "name": "HELP",
+      "hidden": false
+    }
+  ],
   "marked": {
     "gfm": true,
     "tables": true,
@@ -28,5 +35,11 @@
     "pedantic": false,
     "smartLists": true,
     "langPrefix": "language-"
-  }
+  },
+  "sync": {
+    "id": "5bf804e947e64a2543e6c9b6",
+    "name": "a-nakamura1015/java_gold",
+    "useImdoneioForPriority": true
+  },
+  "noHelp": true
 }
